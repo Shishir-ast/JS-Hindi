@@ -48,16 +48,37 @@
 // console.log(anothername);
 // console.log(anothername);
 
-let user = {
-    email : "user@google.com",
-    upi : "ramdas"
+// let user = {
+//     email : "user@google.com",
+//     upi : "ramdas"
 
-}
+// }
 
 
-let user2 = user
+// let user2 = user
 
-user2.email = "ram@google.com"
+// user2.email = "ram@google.com"
 
-console.log(user.email);
-console.log(user2.email);
+// console.log(user.email);
+//console.log(user2.email);
+
+
+// console.log("2" > 1);
+// console.log( "01" > 1);
+
+
+// console.log(null > 0);
+// console.log(null == 0);
+// console.log(null >= 0);
+
+//Comparisions convert null to zero unlike = sign
+
+// console.log( undefined == 0);
+// console.log( undefined > 0);
+// console.log( undefined >= 0 );
+
+
+// === 
+
+// console.log("2" == 2 );
+// console.log( "2" === 2 );
