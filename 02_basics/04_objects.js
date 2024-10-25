@@ -58,15 +58,32 @@
 // console.log(tinderUser.hasOwnProperty('isLoggedIn'))
 
 
-const course ={
-    courseName: "js in Hindi",
-    price :"999",
-    courseInstructor :"hitesh"
-}
+// const course ={
+//     courseName: "js in Hindi",
+//     price :"999",
+//     courseInstructor :"hitesh"
+// }
 
 //course.courseInstructor
 
-const {courseInstructor: instrucotr} = course
+// const {courseInstructor : instructor} = course
 
-//console.log(courseInstructor)
-console
+// console.log(instructor);
+
+const navbar = () => {
+
+}
+navbar(company = "hitesh") 
+
+// {
+//     "name" : "hitesh",
+//     "courseName" : "JS in hindi",
+//    " price" : "free"
+// }
+
+[
+    {},
+    {},
+    {},
+    {}
+]
