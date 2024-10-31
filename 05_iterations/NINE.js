@@ -28,7 +28,9 @@ const myShoppingcart = [
         price : 2999
     }
 ]
-const acc = 0
+const acc = 9
 const priceToPay = myShoppingcart.reduce((item) => acc + item.price, 0 )
 
 console.log(priceToPay)
+
+
